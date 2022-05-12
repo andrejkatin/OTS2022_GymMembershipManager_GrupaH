@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2022_GymMembershipManager", "OTS2022_GymMembershipManager\OTS2022_GymMembershipManager.csproj", "{4225594A-6463-4613-8E3D-754D7B563BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2022_GymMembershipManager.Test", "OTS2022_GymMembershipManager.Test\OTS2022_GymMembershipManager.Test.csproj", "{BF9DF6A5-BBBF-4D3F-A1A9-5E3D2E3D13AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4225594A-6463-4613-8E3D-754D7B563BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4225594A-6463-4613-8E3D-754D7B563BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4225594A-6463-4613-8E3D-754D7B563BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4225594A-6463-4613-8E3D-754D7B563BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9DF6A5-BBBF-4D3F-A1A9-5E3D2E3D13AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9DF6A5-BBBF-4D3F-A1A9-5E3D2E3D13AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9DF6A5-BBBF-4D3F-A1A9-5E3D2E3D13AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9DF6A5-BBBF-4D3F-A1A9-5E3D2E3D13AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51F8D165-BAE7-454D-A448-3E1E0C4EF7C2}
+	EndGlobalSection
+EndGlobal
